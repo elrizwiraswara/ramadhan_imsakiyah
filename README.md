@@ -1,7 +1,7 @@
 <img src="https://github.com/IMPHNEN/.github/raw/main/profile/banner.png" alt="IMPHEN">
 
 ### This repository is my submission for the [IMPHEN Ramadhan Code Fest 2025](https://github.com/IMPHNEN/Ramadhan-Code-Fest-2025) event.
-Literally, dikarenakan aku malas liatin tempelan brosur imsakiyah di dinding, jadi mending taruh di hp, bisa langsung liat kapan buka sambil scroll fesnuk 😅
+> Literally, dikarenakan aku malas liatin tempelan brosur imsakiyah di dinding, jadi mending taruh di hp, bisa langsung liat kapan buka sambil scroll fesnuk 😅
 
 
 # Ramadhan Imsakiyah App
